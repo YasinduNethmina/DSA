@@ -32,6 +32,16 @@ I'm building this repo to:
   - Topics: Arrays, Math
   - [LeetCode #1470](https://leetcode.com/problems/shuffle-the-array/)
 
+4. [Concatenation of Array](./arrays/concatenationOfArray.js)
+  - Difficulty: Easy
+  - Topics: Arrays
+  - [LeetCode #1929](https://leetcode.com/problems/concatenation-of-array/)
+
+5. [Baseball Game](./arrays/stacks/baseballGame.js)
+  - Difficulty: Easy
+  - Topics: Arrays, Stack
+  - [LeetCode #682](https://leetcode.com/problems/baseball-game/)
+
 ## 📚 My Solution Format
 
 I structure each solution with:
