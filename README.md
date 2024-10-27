@@ -42,6 +42,13 @@ I'm building this repo to:
   - Topics: Arrays, Stack
   - [LeetCode #682](https://leetcode.com/problems/baseball-game/)
 
+### Linked Lists
+
+1. [Reverse Linked List](./linkedLists/reverseLinkedList.js)
+  - Difficulty: Easy
+  - Topics: Linked List
+  - [LeetCode #206](https://leetcode.com/problems/reverse-linked-list/)
+
 ## 📚 My Solution Format
 
 I structure each solution with:
